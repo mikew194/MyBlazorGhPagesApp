@@ -1,0 +1,2 @@
+C:\Development\GitHub\MyBlazorGhPagesApp\dph-pages\net6.0\publish\emcc-props.json
+C:\Development\GitHub\MyBlazorGhPagesApp\dph-pages\net6.0\publish\web.config
